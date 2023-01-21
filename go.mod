@@ -1,4 +1,4 @@
-module github.com/yi-ge/sse/dev
+module github.com/yi-ge/sse/v2
 
 go 1.13
 
